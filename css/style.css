@@ -1,0 +1,152 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	color: white;
+	font-family: 'Source Sans Pro', Helvetica;
+}
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+h1 {
+	font-size: 4em;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	font-size: 18px;
+}
+
+p, h4 {
+	margin: 0;
+	padding: 0;
+}
+
+form {
+	display: inline;
+}
+
+a {
+	color: inherit;
+}
+
+ul {
+	margin: 0;
+}
+
+#landing {
+	height: 100%;
+	width: 100%;
+}
+
+.landing-background {
+	display: table;
+	background: linear-gradient(0deg, rgba(24,150,213,0.3), rgba(24,150,213,0.3)) repeat center center scroll, url(../img/tufts.jpg) no-repeat center center scroll;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.landing-text {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: white;
+}
+
+.self-picture {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+button {
+	color: white;
+	font-family: 'Source Sans Pro', Helvetica;
+	font-size: 20px;
+	margin: 10px 20px 10px 20px;
+	border: none;
+	cursor: pointer;
+}
+
+button:hover {
+    border: 1px solid #FFFFFF;
+    outline: 0;
+    color: #FFF;
+    box-shadow: 0px 0px 20px #FFFFFF;
+}
+
+.button {
+	background-color: #1896d5;
+	height: 50px;
+	width: 150px;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.bio-background{
+	background: linear-gradient(0deg, rgba(24,150,213,0.3), rgba(24,150,213,0.3)) repeat center center fixed, url(../img/tufts.jpg) no-repeat center center fixed;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.bio-header {
+	text-align: center;
+	padding-bottom: 3%;
+	text-shadow: 0px 0px 10px #000;
+}
+
+.bio-picture {
+	padding: 2%;
+}
+
+.bio-text {
+	padding-top: 5%;
+	padding-bottom: 4%;
+	padding-left: 15%;
+	padding-right: 15%;
+	text-align: left;
+}
+
+.bio-buttons {
+	padding-bottom: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: center;
+}
+
+.bio-p {
+	padding-top: 2%;
+	font-size: 23px;
+	text-shadow: 0px 0px 10px #000;
+}
+
+.resume-background{
+	background: linear-gradient(0deg, rgba(24,150,213,0.3), rgba(24,150,213,0.3)) repeat center center fixed, url(../img/tufts.jpg) no-repeat center center fixed;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.resume-text {
+	padding-top: 5%;
+	padding-bottom: 4%;
+	margin-right: 30%;
+	margin-left: 30%;
+	text-align: left;
+}
+
+.resume-title {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+.resume-textstyle {
+	text-shadow: 0px 0px 10px #000;
+}
