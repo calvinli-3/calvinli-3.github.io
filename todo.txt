@@ -1,0 +1,4 @@
+todo:
+
+- add svg support to lots of the images (https://fontawesome.com/how-to-use/svg-with-js)
+    - make my own art
