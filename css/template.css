@@ -1,10 +1,12 @@
 body {
   padding-top: 5rem;
-  background: url(../img/boys_grey.jpg) no-repeat center center fixed; 
+  background-color: #333;
+  color: rgba(255, 255, 255, 1);
+  /* background: url(../img/boys_grey.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover; */
 }
   .template {
   padding: 3rem 1.5rem;
